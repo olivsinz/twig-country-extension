@@ -1,0 +1,25 @@
+{
+    "name": "0l1v3r5/twig-country-extension",
+    "description": "Country filter extension extension for Twig.",
+    "keywords": ["twig", "country", "extension", "filter"],
+    "homepage": "https://github.com/0l1v3r5/twig-country-extension",
+    "type": "library",
+    "require": {
+        "php": ">=7.0",
+        "symfony/intl": ">=4.1",
+        "twig/twig": ">=2.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "OLIVERS",
+            "email": "zinsouoliviers@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "0l1v3r5\\Twig\\Extension\\": "src/"
+        }
+    }
+}
