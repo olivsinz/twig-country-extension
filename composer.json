@@ -1,6 +1,6 @@
 {
     "name": "olivers/twig-country-extension",
-    "description": "Country filter extension extension for Twig.",
+    "description": "Country filter extension for Twig.",
     "keywords": ["twig", "country", "extension", "filter"],
     "homepage": "https://github.com/0l1v3r5/twig-country-extension",
     "type": "library",
