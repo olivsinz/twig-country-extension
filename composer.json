@@ -1,5 +1,5 @@
 {
-    "name": "0l1v3r5/twig-country-extension",
+    "name": "olivers/twig-country-extension",
     "description": "Country filter extension extension for Twig.",
     "keywords": ["twig", "country", "extension", "filter"],
     "homepage": "https://github.com/0l1v3r5/twig-country-extension",
@@ -19,7 +19,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Olivers\\Twig\\Extension\\": "src/"
+            "olivers\\Twig\\Extension\\": "src/"
         }
     }
 }
