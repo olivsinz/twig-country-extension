@@ -16,7 +16,6 @@
             "email": "zinsouoliviers@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "olivers\\Twig\\Extension\\": "src/"
